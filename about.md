@@ -1,11 +1,15 @@
 ---
 layout: page
-title: About
+title: About Dane
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I, whose name is actually Dan Venis, am a University of Waterloo student in the Mechatronics engineering program. I've lived in Toronto my whole life, and I'm hoping to experience wonderful things as I am exposed to the massive world outside.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Currently I am on a spiritual journey to find myself and all things that I can enjoy. Spiritual activities that I partake in include:
+  - Programming (whatever project I'm in the mood for)
+  - Video games (Leej of Lejends, osu!, Super Smash Brothers, Path of Exile, ...)
+  - Playing piano
+  - Being fairly frugal
+  - Drinking tea
+I am hoping to grow, and prune, this list as I journey from being Dane, to being the Great Dane.
