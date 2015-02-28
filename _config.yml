@@ -1,9 +1,9 @@
 # Site settings
-title: Dane the Mane
+title: Dane-ger Zone
 email: dan.ven@gmail.com
 description: >
   A place for Dane to share his super interesting thoughts for everyone
-  with a lot of free time on their hands to read about.
+  with a lot of free time on their hands.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dvenis.github.io" # the base hostname & protocol for your site
 twitter_username: uberzoonie

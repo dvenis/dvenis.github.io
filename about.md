@@ -10,6 +10,7 @@ When I have free time I'll generally do something of the following:
 
   - Programming (whatever project I'm in the mood for)
   - Video games (Leej of Lejends, osu!, Super Smash Brothers, Path of Exile, ...)
+  - Anime
   - Playing piano
   - Looking for sicknasty deals
   - Drinking tea
