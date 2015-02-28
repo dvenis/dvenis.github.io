@@ -2,17 +2,29 @@
 layout: post
 title:  "The Quest for Cheap Food"
 date:   2015-02-15 10:30:49
-categories: grocerychallenge research cheap
+categories: grocerychallenge research cheap project
 ---
-I have always been an unfortunately cheap consumer, and it is something I've been trying to fix for a while now. Groceries are something we all have to buy, and yet if I don't pay attention I can end up paying exorbitant prices for even the simplest meals. That is why, in the next few months I will be conducting a research project: how little can I spend monthly on groceries, while also not forcing myself to eat garbage foods all the time (no instant noodles all day everyday).
+I have always been an extremely cheap consumer, partially because I don't like "wasting" money and also because it's a fun practice. Groceries are something I especially like purchasing cheaply: eating food based on what's cheap exposes you to new foods, and actually makes shopping more interesting. Living the student life on my own I've started to wonder how little can someone spend on groceries, and still eat okay.
 
-Some details about myself to minimize subjectivity:
+#The Project
+For the next few months, I'll try testing this out (for science, of course). Here are some details to add context to the project:
 
-  - I don't have taste buds. Not literally, but I can eat almost anything, especially if it has no taste.
-  - I don't normally prepare food that takes a long time
-  - I'm okay with eating the same food every meal for a week
-  - I don't have a car, so all groceries I buy will be brought home by bus, or by bike (when it gets warmer)
+  - Minimize monthly grocery bills
+  - Eat decent (health-wise) foods. So that means I won't be eating Kraft Dinner and instant noodles for a month. Obviously "healthy" is subjective, but the best I can say is that it will be _reasonable_.
+  - Purchase food to eat for one person (you can probably expect slightly cheaper costs per-person with more people)
 
-Another important thing to note that I will not be considering restaurant or fast food bills. This project isn't to see how little I can spend in a month, but to see how little I can spend on groceries per month. How much I spend eating out during this research will not be different from what I would spend eating out normally. For the sake of not being completely anti-social these costs will not be considered.
+Another important point is that I will _not_ be including restaurant and fast food bills. At the end of the month I will tally up the number of meals I ate that were not on the monthly bill and extrapolate the costs. I'm doing this because the purpose of the project isn't to actually save money, but to see how much money can be potentially saved (saving money is a bonus).
 
-It's already been a month and a half since I started, so expect to see a January month in review post coming out soon!
+#The Dane Factor
+With the project details out of the way I should mention some things about myself that will affect the outcome of the project:
+
+  - I don't really care what I eat. I really like eating, but I'm hardly picky. Eating the same tasteless food for a week is okay with me!
+  - I don't know how to cook. My skills are limited to chopping and putting things on a frying pan. You probably won't see me make anything more complicated than that.
+  - I don't like spending time preparing food
+  - I don't have a car, so all groceries I buy are brought home by bus, or by bike (when it gets warmer)
+  - I can eat huge amounts of food when it's in front of me, at the expense of feeling terrible for the rest of the day
+
+I'm definitely not an average food consumer, so a lot of my observations won't be applicable for a normal person. But I think it will still give a nice idea of what is possible when it comes to spending less on food.
+
+#The Report
+I'll be (hopefully) updating this blog with monthly progress reports, and all the sick dirty deals I find. Maybe I'll even put something nice together at the end of the project.
