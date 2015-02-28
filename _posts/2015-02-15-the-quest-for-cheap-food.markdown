@@ -2,7 +2,7 @@
 layout: post
 title:  "The Quest for Cheap Food"
 date:   2015-02-15 10:30:49
-categories: grocerychallenge research cheap project
+tags: grocerychallenge research cheap project
 ---
 I have always been an extremely cheap consumer, partially because I don't like "wasting" money and also because it's a fun practice. Groceries are something I especially like purchasing cheaply: eating food based on what's cheap exposes you to new foods, and actually makes shopping more interesting. Living the student life on my own I've started to wonder how little can someone spend on groceries, and still eat okay.
 
