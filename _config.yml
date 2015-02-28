@@ -1,8 +1,8 @@
 # Site settings
-title: Dane-ger Zone
+title: DANE-ger Zone
 email: dan.ven@gmail.com
 description: >
-  A place for Dane to share his super interesting thoughts for everyone
+  A place for Dane to share his super interesting thoughts for anyone
   with a lot of free time on their hands.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dvenis.github.io" # the base hostname & protocol for your site
