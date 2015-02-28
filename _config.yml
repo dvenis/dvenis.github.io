@@ -1,9 +1,9 @@
 # Site settings
-title: The Great Dane
+title: Dane the Mane
 email: dan.ven@gmail.com
 description: >
-  A place for Dane to share his discoveries about the world as he journeys from
-  being Dane, to being the Great Dane.
+  A place for Dane to share his super interesting thoughts for everyone
+  with a lot of free time on their hands to read about.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dvenis.github.io" # the base hostname & protocol for your site
 twitter_username: uberzoonie
