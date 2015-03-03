@@ -28,7 +28,7 @@ Let me share with you the most important thing I learned: produce is too expensi
 
 The cheapest foods, as expected, are pasta, rice, and breads. Probably the best way to make the most out of the bland carbs is to put some sort of sauce on it. I found that pasta sauce and cheese go well with everything. Or you can be fancy and make some sort of potato, carrot, and onion curry. I ended up making pasta sauce with cheese, and just throwing it on bread, pasta, and rice for a week. Same thing with curry. Same thing with Dane's special fried, then baked, then reheated-in-a-microwave beans.
 
-I think the real winner though, is the burrito. Take a pita, or real tortilla if they were on sale, throw all your leftovers on it, put it in the microwave or toaster oven (or both), and bam! You've just turned whatever scraps of food you had into a delicious burrito. My favourite things to throw in it were: rice, beans, pasta sauce, cheese.
+I think the real winner though, is the burrito. Take a pita, or real tortilla if they were on sale, throw all your leftovers on it, put it in the microwave or toaster oven (or both), and bam! You've just turned whatever scraps of food you had into a delicious burrito. My favourite things to throw in it are: rice, beans, pasta sauce, cheese.
 
 {% include image.html url="/img/beef-burrito.jpg" align="left" caption="It won't look this good, it won't taste this good, and it won't have meat. And yet it will still  be delicious."%}
 
