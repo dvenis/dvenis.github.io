@@ -30,6 +30,7 @@ The cheapest foods, as expected, are pasta, rice, and breads. Probably the best 
 
 I think the real winner though, is the burrito. Take a pita, or real tortilla if they were on sale, throw all your leftovers on it, put it in the microwave or toaster oven (or both), and bam! You've just turned whatever scraps of food you had into a delicious burrito. My favourite things to throw in it were: rice, beans, pasta sauce, cheese.
 
+{% include image.html url="/img/beef-burrito.jpg" align="left" caption="It won't look this good, it won't taste this good, and it won't have meat. And yet it will still  be delicious."%}
 
 #Dane's Chart of Value
 
