@@ -202,3 +202,30 @@ pre {
         }
     }
 }
+
+/**
+ * Tables
+ */
+table {
+
+
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
+  border-color: $grey-color-light;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  padding: 8px;
+
+  :first-child tr:first-child * {
+    border: 0px;
+  }
+
+  td, th {
+    border-top: 1px solid $grey-color-light;
+    padding: 8px;
+  }
+}

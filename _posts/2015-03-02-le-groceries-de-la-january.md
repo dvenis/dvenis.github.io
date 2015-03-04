@@ -7,15 +7,10 @@ tags: grocerychallenge research cheap project
 
 A month late, but for everyone patiently waiting for the exciting results in January, here it is!
 
-|                          |            |
-|:-------------------------|-----------:|
 | Total grocery bill       | $72.05     |
 | Number of meals included | 88 (94.6%) |
 | **Adjusted monthly cost**    | **$76.14**     |
 | **Adjusted daily cost**      | **$2.46**      |
-
-
-Here's what the numbers mean:
 
  - **Total grocery bill**: the amount of money I spent on groceries in January
  - **Number of meals included**: the number of meals that my grocery bill paid for (`total number of days*3 - meals at restaurants|fast food|free meals`). The number in parenthesis is the percentage of meals included.
@@ -30,12 +25,13 @@ The cheapest foods, as expected, are pasta, rice, and breads. Probably the best 
 
 I think the real winner though, is the burrito. Take a pita, or real tortilla if they were on sale, throw all your leftovers on it, put it in the microwave or toaster oven (or both), and bam! You've just turned whatever scraps of food you had into a delicious burrito. My favourite things to throw in it are: rice, beans, pasta sauce, cheese.
 
-{% include image.html url="/img/beef-burrito.jpg" align="left" caption="It won't look this good, it won't taste this good, and it won't have meat. And yet it will still  be delicious."%}
+{% include image.html url="/img/beef-burrito.jpg" align="left" caption="It won't look this good, it won't taste this good, and it won't have meat. And yet it will still be delicious." %}
 
 #Dane's Chart of Value
 
-| Monthly Ranking | Shnack          | Dane's Thoughts                                                                                                                                 |
-|-----------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1               | Beans           | Insanely cheap, easy to make, and nutritious (providing the much needed fibre for the zero-vegetable diet). You don't even need to do anything  |
-| 2               | Pitas/Tortillas | Chuck whatever leftovers you have onto this round piece of goodness, and you've got yourself a meal. See above for more details.                |
-| 3               | Apples          | One of the only fruits that is consistently cheap, delicious, and fully edible (I've started eating everything except the stalk...).            |
+
+| Shnack          | Dane's Thoughts |
+|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| Beans           | Insanely cheap, easy to make, and nutritious (providing the much needed fibre for the zero-vegetable diet). If you're a beast, you don't even need to cook them. |
+| Pitas/Tortillas | Chuck whatever leftovers you have onto this round piece of goodness, and you've got yourself a meal. See above for more details.                |
+| Apples          | One of the only fruits that is consistently cheap, delicious, and fully edible (I've started eating everything except the stalk...).            |
