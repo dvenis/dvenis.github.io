@@ -20,11 +20,15 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+$border-light:     1px solid $grey-color-light;
+$border-medium:    2px solid $grey-color-light;
+$border-heavy:     2px solid $grey-color;
+
 // Width of the content area
-$content-width:    800px;
+$content-width:    960px;
 
 $on-palm:          600px;
-$on-laptop:        800px;
+$on-laptop:        960px;
 
 
 
