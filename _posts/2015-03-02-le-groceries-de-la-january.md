@@ -31,8 +31,8 @@ I think the real winner though, is the burrito. Take a pita, or tortilla if you 
 #Dane's Chart of Value
 
 
-| Shnack          | Dane's Thoughts |
-|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| Beans           | Insanely cheap, easy to make, and nutritious (providing the much needed fibre for the zero-vegetable diet). If you're a beast, you don't even need to cook them. |
-| Pitas/Tortillas | Chuck whatever leftovers you have onto this round piece of goodness, and you've got yourself a meal. See above for more details.                |
-| Apples          | One of the only fruits that is consistently cheap, delicious, and fully edible (I've started eating everything except the stalk...).            |
+| Shnack          | Dane's Thoughts | Target Price |
+|-----------------|-----------------|--------------|
+| Beans           | Insanely cheap, easy to make, and nutritious (providing the much needed fibre for the zero-vegetable diet). If you're a beast, you don't even need to cook them. | $0.90/540mL can
+| Pitas/Tortillas | Chuck whatever leftovers you have onto this round piece of goodness, and you've got yourself a meal. See above for more details.                | $1.00 for 4 pitas
+| Apples          | One of the only fruits that is consistently cheap, delicious, and fully edible (I've started eating everything except the stalk...). | $0.90/lb
