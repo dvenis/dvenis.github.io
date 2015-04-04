@@ -16,4 +16,4 @@ A small script that pulls the audio file from an osu! beatmap into a user's musi
 
 #Grocery Challenge
 
-The grocery challenge. The quest for finding the cheapest food. My research projects. Goes by all sorts of name; a more detailed look at it can be found [here]({% post_url 2015-02-15-the-quest-for-cheap-food  %}).
+The grocery challenge. The quest for finding the cheapest food. Goes by all sorts of name. A more detailed look at it can be found [here]({% post_url 2015-02-15-the-quest-for-cheap-food  %}).
