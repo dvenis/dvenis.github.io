@@ -248,6 +248,11 @@ figure {
     margin-left: $spacing-unit;
   }
 
+  &.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   &.small {
     max-width: 25%;
   }
@@ -257,7 +262,7 @@ figure {
   }
 
   &.large {
-    max-width: 100%;
+    max-width: 92%;
   }
 
   a {
