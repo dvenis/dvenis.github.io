@@ -5,7 +5,7 @@ date:   2015-06-29 2:30:00
 tags: grocerychallenge research cheap project
 ---
 
-This is the last post on the grocery challenge. I'll be summarizing what I've learned from this whole process, and the things you should be taking home from it.
+As the last post of the grocery challenge, I'll be summarizing what I've learned from this whole process, and the things you should be taking home from it.
 
 | Cost of groceries       | $193.3     |
 | Number of meals included | 300 |
@@ -20,12 +20,12 @@ So in the end, I was able to buy groceries for less than $2 a day. The real beau
 
 #Dane's Tips and Tricks
 
-Some good stuff you should do when your stuck eating as if you were in poverty:
+Some good stuff to consider when you're stuck eating as if you were in poverty:
 
   1. Buy lentils or beans (dried is cheaper than canned) as meat replacements
-  1. Rice is probably the value in terms of energy per dollar, but bread, pasta, pita, tortillas are also sometimes good (you gotta find those sales)
-  1. Make sauces or soups in bulk, and add to rice, bread, etc
-  1. Fruits and vegetables are expensive, especially during the Winter. Apples, bananas, oranges are good choices for fruits. Cabbage, carrots, broccoli, tomatoes are good choices for vegetables.
+  1. Rice is the best value in terms of energy per dollar, but bread, pasta, pita, tortillas are also sometimes good (you gotta find those sales)
+  1. Make sauces or soups in bulk, and just add it to rice, bread, etc. for easy meals
+  1. Fruits and vegetables are expensive, especially during the winter. Apples, bananas, oranges are good choices for fruits. Cabbage, carrots, broccoli, tomatoes are good choices for vegetables.
   1. Base your meals off of what is on sale
   1. Use (cheap) spices to give flavour to your food
   1. If healthiness of the food is important, weigh the "healthiness" against the cost of the food and optimize
@@ -35,11 +35,11 @@ Some stuff you shouldn't be doing:
 
  1. Meat is expensive. Don't buy it.
  1. There are a lot of vegetables that don't provide a lot of nutrition, and are used for texture and taste (iceberg lettuce, cucumber, most mushrooms, etc). They're not worth buying.
- 1. Don't always buy something if it's on sale: it can still be really expensive
+ 1. Don't always buy something just because it's on sale: it can still be really expensive
 
 #Before it was Cool
 
-At the end of this project, a campaign was launched to raise awareness for the 1.4 billion people living under the poverty line. These people would have the equivalent of $1.75 per day living in Canada. Without it being the intention at all, I have just proved it is possible (and really not that difficult) to purchase plenty of food to eat with $2.00 per day, and even less if you care less about the balance and nutrition of your diet. The real problem with having $1.75 is you won't be have enough to buy RP.
+At the end of this project, a campaign was launched to raise awareness for the 1.4 billion people living under the poverty line. These people would have the equivalent of $1.75 per day living in Canada. Completely unintentionally, I have shown that it is possible (and really not that difficult) to eat off of $2 per day. This can be reduced to $1.75 per day with slight cuts to health or consumption. The real problem with having $1.75 is that it's not enough to buy your RP.
 
 #And to Wrap it All Up
 

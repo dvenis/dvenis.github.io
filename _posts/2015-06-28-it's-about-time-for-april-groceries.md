@@ -5,7 +5,7 @@ date:   2015-06-28 12:30:00
 tags: grocerychallenge research cheap project
 ---
 
-As expected of the Dane, we're two months behind. And of course, this project has long since ended. This is the final month of the grocery challenge. And the results are fairly pleasing.
+As expected of the Dane, we're two months behind. And of course, this project has long since ended. This is result of the final month of the grocery challenge.
 
 | Total grocery bill       | $0.00     |
 | Number of meals included | 67 (74%) |
