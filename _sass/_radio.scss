@@ -1,0 +1,73 @@
+$background:#222222;
+$border: #888888;
+$foreground:#fff;
+$foreground-light:#aaa;
+
+.radio_controller {
+  display: inline-block;
+  width: 300px;
+  height: 60px;
+  background-color: $background;
+  border: solid 1px $border;
+  border-radius: 10px;
+
+  .play_button {
+    float: left;
+    font-size: 30px;
+    color: $foreground;
+    padding: 9px 0px 10px 20px;
+
+    &:hover, &:link, &:visited, &:active {
+      text-decoration: none;
+    }
+
+    &:hover {
+      color: $foreground-light;
+    }
+
+    &.paused {
+      font-size: 20px;
+      padding: 17px 0px 17px 21px;
+    }
+  }
+
+  .volume_control {
+    float: left;
+    display: inline-block;
+    background-color: transparent;
+    border-radius: 10px;
+    height: 100%;
+    width: 70%;
+    margin-left: 15px;
+    margin-right: 10px;
+
+    input {
+      float: left;
+      margin: 0;
+      background-color: transparent;
+      -webkit-appearance: none;
+      width: 100%;
+      height: 100%;
+      
+      &:focus {
+        outline: none;
+      }
+
+      &::-webkit-slider-runnable-track {
+          background: #ddd;
+          border: none;
+          margin: 0;
+          border-radius: 3px;
+          height: 10px;
+      }
+
+      &::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        background-color: #666;
+        opacity: 1;
+        width: 10px;
+        height: 26px;
+      }
+    }
+  }
+}
