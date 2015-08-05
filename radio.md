@@ -4,7 +4,7 @@ title: Radio
 permalink: /radio/
 ---
 
-Listen the garbage I like to listen to!
+Listen to the garbage I like to listen to!
 
 Mainly denpa and moe Japanese pop. Adding more music overtime...
 
@@ -23,8 +23,6 @@ Mainly denpa and moe Japanese pop. Adding more music overtime...
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script src="/assets/js/jquery.shoutcast.min.js"></script>
-
-<h1 id="songtitle">no song.</h1>
 
 <script>
 
