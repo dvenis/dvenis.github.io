@@ -10,7 +10,7 @@ Mainly denpa and moe Japanese pop. Adding more music overtime...
 
 
 <div id="audio_controller" class="radio_controller">
-  <audio id="radio_audio" src="http://104.167.119.161:8001/test" >
+  <audio id="radio_audio" src="http://104.167.119.161:47231/test" >
     Your browser doesn't support HTML5 audio. :(
   </audio>
 
